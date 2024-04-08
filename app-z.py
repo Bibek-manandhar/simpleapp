@@ -2,7 +2,7 @@
 def feature_z():
     print("This is feature-z branch")
     print("This is a new feature added in feature-z branch")
-    print("Feature Z: This is a program to generate Fibonacci sequence")
+    print("Feature Z: This is program to generate Fibonacci sequence")
     n = int(input("Enter the number of terms: "))
 
     n1, n2 = 0, 1
