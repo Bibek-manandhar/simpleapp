@@ -5,7 +5,7 @@ def feature_x():
     print("Feature X: This is a simple calculator program")
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
-    operation = input("Choose operation (+, -, *, /): ")
+    operation = input("Choose operation from these symbol (+, -, *, /): ")
     
     if operation == '+':
         print("Result:", num1 + num2)
