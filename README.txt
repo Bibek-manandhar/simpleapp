@@ -23,7 +23,6 @@ git clone https://github.com/Bibekmanandar/simpleapp.git
 
 7. To run your application, use the following command:
 
-my_application
+"my_application"
 
 8. You can find the executable or deployable package in the `dist` directory.
-
