@@ -15,7 +15,7 @@ class TestMyFunction(unittest.TestCase):
         self.assertEqual(my_function(5), 25)  # Fails
     
     def test_case_5(self):
-        self.assertEqual(my_function(-1), 1)  # Fails
+        self.assertEqual(my_function(-1), 1)  # Failss
 
 if __name__ == '__main__':
     unittest.main()
